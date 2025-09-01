@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "name": "Search",
+      "links": [
+        {
+          "title": "Google",
+          "url": "https://google.com",
+          "note": "Web search"
+        },
+        {
+          "title": "DuckDuckGo",
+          "url": "https://duckduckgo.com"
+        }
+      ]
+    },
+    {
+      "name": "Usernames",
+      "groups": [
+        {
+          "name": "Checkers",
+          "links": [
+            {
+              "title": "Namechk",
+              "url": "https://namechk.com"
+            },
+            {
+              "title": "WhatsMyName",
+              "url": "https://whatsmyname.app/"
+            }
+          ]
+        },
+        {
+          "name": "Research",
+          "links": [
+            {
+              "title": "Holehe",
+              "url": "https://github.com/megadose/holehe",
+              "note": "Email \u2192 services"
+            }
+          ]
+        }
+      ],
+      "links": []
+    }
+  ]
+}
